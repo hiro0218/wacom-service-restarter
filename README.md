@@ -1,3 +1,3 @@
-Wacom復活君
+Wacom Service Restarter
 ==
 
