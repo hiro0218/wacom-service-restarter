@@ -19,7 +19,7 @@ namespace WacomRestarter
             RestartWindowsService("WTabletServicePro");
 
             // メッセージ
-            MessageBox.Show("Wacom サービスの再起動が完了しました。");
+            MessageBox.Show("Wacom サービスの再起動が完了しました。", "Wacom Restarter", MessageBoxButtons.OK, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1, MessageBoxOptions.DefaultDesktopOnly);
         }
 
         private static void KillWacomProcess(string processName)
