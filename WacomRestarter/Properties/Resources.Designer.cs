@@ -61,6 +61,15 @@ namespace WacomRestarter.Properties {
         }
         
         /// <summary>
+        ///   An unexpected error occured. に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        public static string ErrorUnexpected {
+            get {
+                return ResourceManager.GetString("ErrorUnexpected", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Wacom Service restart completed. に類似しているローカライズされた文字列を検索します。
         /// </summary>
         public static string WacomeServiceRestartCompleted {

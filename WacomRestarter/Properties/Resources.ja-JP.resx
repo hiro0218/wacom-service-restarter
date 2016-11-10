@@ -117,6 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="ErrorUnexpected" xml:space="preserve">
+    <value>予期せぬエラーが発生しました。</value>
+  </data>
   <data name="WacomeServiceRestartCompleted" xml:space="preserve">
     <value>Wacom サービスの再起動が完了しました。</value>
   </data>
