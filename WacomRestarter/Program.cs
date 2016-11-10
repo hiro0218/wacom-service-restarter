@@ -1,9 +1,9 @@
 ﻿using System.ServiceProcess;
 using System.Windows.Forms;
 using System.Diagnostics;
-using WacomRestarter.Properties;
+using WacomServiceRestarter.Properties;
 
-namespace WacomRestarter
+namespace WacomServiceRestarter
 {
     class Program
     {

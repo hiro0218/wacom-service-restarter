@@ -7,8 +7,8 @@
     <ProjectGuid>{43A60B3E-26B7-4E33-A9E9-52387DBDA753}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WacomRestarter</RootNamespace>
-    <AssemblyName>WacomRestarter</AssemblyName>
+    <RootNamespace>WacomServiceRestarter</RootNamespace>
+    <AssemblyName>WacomServiceRestarter</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <IsWebBootstrapper>false</IsWebBootstrapper>
